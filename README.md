@@ -51,10 +51,7 @@ Description of website technologies used to develop this app.
 ----
 __New Year New Hack - Completed: 03/01/2k21__
 
-![Voice-App Screenshots](assets/img/screenshots/01.PNG)
-![Voice-App Screenshots](assets/img/screenshots/02.PNG)
 ![Voice-App Screenshots](assets/img/screenshots/mobile%2003.PNG)
-![Voice-App Screenshots](assets/img/screenshots/moto%20G4.PNG)
 
 [Demo - Click Here]() - __P.R_2k21 Voice Note-App__
 
